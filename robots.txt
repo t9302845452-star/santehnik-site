@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://santehnik-nn.replit.app/sitemap.xml
